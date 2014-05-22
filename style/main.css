@@ -315,7 +315,7 @@ hr {
     color: rgba(0,0,0,0); }
   .tile.tile-2 .tile-outer {
     background: #eee4da;
-    background: url('TileSets/elements2/2.png');
+    background: url('../TileSets/elements2/2.png');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-outer {
     background: #ede0c8;
